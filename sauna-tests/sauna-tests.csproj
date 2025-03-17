@@ -16,8 +16,8 @@
     <PackageReference Include="NUnit.Analyzers" Version="3.10.0" />
     <PackageReference Include="coverlet.collector" Version="6.0.4" />
     <PackageReference Include="PShivaraman.AviationCalcUtilNet" Version="2.13.2" />
-    <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="8.0.13" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.13" />
+    <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="8.0.14" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.14" />
   </ItemGroup>
 
   <ItemGroup>
